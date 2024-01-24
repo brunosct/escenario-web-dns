@@ -4,6 +4,7 @@ Executar:
     docker compose up -d
 
 Para finalizar:
+
     docker compose down
 
 
